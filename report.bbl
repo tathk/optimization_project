@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{solomon_dataset}
+Bernabé Dorronsoro.
+\newblock Vrp benchmarks: Solomon instances, 2007.
+\newblock Accessed: 2025-07-15.
+
+\bibitem{fig_cvrptw}
+Victor Pillac, Michel Gendreau, Christian Guéret, and Andrés~L. Medaglia.
+\newblock The cvrp with time windows (cvrptw).
+\newblock \url{https://www.researchgate.net/figure/The-CVRP-with-Time-Windows-CVRPTW_fig3_319754352}, 2013.
+\newblock Accessed: 2025-07-15.
+
+\bibitem{toth_vigo_vrp}
+Paolo Toth and Daniele Vigo, editors.
+\newblock {\em Vehicle Routing: Problems, Methods, and Applications}.
+\newblock Society for Industrial and Applied Mathematics and Mathematical Optimization Society, Philadelphia, 2nd edition, 2014.
+
+\end{thebibliography}
